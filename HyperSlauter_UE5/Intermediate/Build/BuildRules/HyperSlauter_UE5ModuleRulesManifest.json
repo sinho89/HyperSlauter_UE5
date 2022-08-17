@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Projects\\Unreal\\HyperSlauter_UE5\\HyperSlauter_UE5\\Source\\HyperSlauter_UE5\\HyperSlauter_UE5.Build.cs",
+		"C:\\Projects\\Unreal\\HyperSlauter_UE5\\HyperSlauter_UE5\\Source\\HyperSlauter_UE5.Target.cs",
+		"C:\\Projects\\Unreal\\HyperSlauter_UE5\\HyperSlauter_UE5\\Source\\HyperSlauter_UE5Editor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

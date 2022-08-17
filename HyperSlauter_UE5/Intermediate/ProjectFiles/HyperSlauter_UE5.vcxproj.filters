@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\HyperSlauter_UE5.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HyperSlauter_UE5.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\HyperSlauter_UE5Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
+    <Filter Include="Source\HyperSlauter_UE5">
+      <UniqueIdentifier>{BB8654DA-4CA2-3286-920E-EFFB4D9C9358}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\HyperSlauter_UE5\HS_AnimInstance.cpp">
+      <Filter>Source\HyperSlauter_UE5</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HyperSlauter_UE5\HS_AnimInstance.h">
+      <Filter>Source\HyperSlauter_UE5</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HyperSlauter_UE5\HS_Controller.cpp">
+      <Filter>Source\HyperSlauter_UE5</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HyperSlauter_UE5\HS_Controller.h">
+      <Filter>Source\HyperSlauter_UE5</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HyperSlauter_UE5\HS_Player.cpp">
+      <Filter>Source\HyperSlauter_UE5</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HyperSlauter_UE5\HS_Player.h">
+      <Filter>Source\HyperSlauter_UE5</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\HyperSlauter_UE5\HyperSlauter_UE5.Build.cs">
+      <Filter>Source\HyperSlauter_UE5</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\HyperSlauter_UE5\HyperSlauter_UE5.cpp">
+      <Filter>Source\HyperSlauter_UE5</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HyperSlauter_UE5\HyperSlauter_UE5.h">
+      <Filter>Source\HyperSlauter_UE5</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HyperSlauter_UE5\HyperSlauter_UE5GameModeBase.cpp">
+      <Filter>Source\HyperSlauter_UE5</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HyperSlauter_UE5\HyperSlauter_UE5GameModeBase.h">
+      <Filter>Source\HyperSlauter_UE5</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
